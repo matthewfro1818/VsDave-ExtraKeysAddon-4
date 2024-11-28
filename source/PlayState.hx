@@ -4131,7 +4131,6 @@ class PlayState extends MusicBeatState
 					notes.remove(daNote, true);
 					daNote.destroy();
 				}
-			}
 			else if (!theFunne)
 			{
 				if(!inCutscene)
