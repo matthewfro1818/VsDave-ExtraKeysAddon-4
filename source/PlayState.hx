@@ -128,7 +128,7 @@ class PlayState extends MusicBeatState
 	public var boyfriendGroup:FlxSpriteGroup;
 	public var dadGroup:FlxTypedSpriteGroup<FlxPerspectiveSprite>;
 	public var bfTrailGroup:FlxTypedSpriteGroup<FlxPerspectiveTrail>;
-	public var TrailGroup:FlxTypedSpriteGroup<FlxPerspectiveTrail>;
+	public var trailGroup:FlxTypedSpriteGroup<FlxPerspectiveTrail>;
 	public var gfGroup:FlxSpriteGroup;
 	public static var curStage:String = '';
 	public static var isPixelStage:Bool = false;
